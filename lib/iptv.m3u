@@ -93,14 +93,6 @@ https://mursor.ottiptv.cc/bilibili/15118691
 https://mursor.ottiptv.cc/douyu/9444320
 #EXTINF:-1 tvg-name="AMC电影",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="Astro AEC",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-name="Astro AOD",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-name="Astro QJ",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-name="B限9122100学中文",B限9122100学中文
 https://mursor.ottiptv.cc/bilibili/24292309
 #EXTINF:-1 tvg-name="C106实体本打包",C106实体本打包
@@ -233,8 +225,6 @@ http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 http://183.11.239.36:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV17
 http://120.76.248.139/live/bfgd/4200000204.m3u8
-#EXTINF:-1 tvg-name="CCTV1港澳版",CCTV1港澳版
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
@@ -399,10 +389,6 @@ https://0472.org/hls/cgtnx.m3u8
 http://a21709.tv.netsite.cc/proxy/1846633731/1846633731.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="CH5",CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-name="CH8",CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://113.195.172.192:808/hls/114/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
@@ -425,12 +411,6 @@ http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=
 http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC电影",CHC电影
 http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CHU",CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 tvg-name="HOY TV",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="HOY TV",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-name="Ido漫说",Ido漫说
 https://mursor.ottiptv.cc/douyu/9456379
 #EXTINF:-1 tvg-name="JG影视解说",JG影视解说
@@ -443,32 +423,8 @@ https://live.iill.top/douyin/685317364746
 https://mursor.ottiptv.cc/douyu/8841881
 #EXTINF:-1 tvg-name="Mr迷瞪秋季家装节建材卫浴灯具专场",Mr迷瞪秋季家装节建材卫浴灯具专场
 https://mursor.ottiptv.cc/bilibili/22491717
-#EXTINF:-1 tvg-name="RTHK31",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-name="RTHK32",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="SAO东西又再说SAO话",SAO东西又再说SAO话
 https://mursor.ottiptv.cc/douyu/8833450
-#EXTINF:-1 tvg-name="TVB J1",TVB J1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-name="TVB Plus",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="TVB Plus",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-name="TVB娱乐新闻台",TVB娱乐新闻台
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-name="TVB娱乐新闻台",TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-name="TVB星河",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB星河",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-name="TVB生活台",TVB生活台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-name="VIUTV",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="VIUTV",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="WTT澳门冠军赛",WTT澳门冠军赛
 https://mursor.ottiptv.cc/bilibili/1982181049
 #EXTINF:-1 tvg-name="Z尖临千字文拼盘",Z尖临千字文拼盘
@@ -719,8 +675,6 @@ https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="亚洲中文",亚洲中文
 http://a21709.tv.netsite.cc/proxy/847703940/847703940.m3u8
-#EXTINF:-1 tvg-name="亚洲武侠",亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="享看电影",享看电影
 https://mursor.ottiptv.cc/douyu/8974130
 #EXTINF:-1 tvg-name="京腔进来让朕ruarua",京腔进来让朕ruarua
@@ -847,10 +801,6 @@ http://live.dxhmt.cn:9081/tv/11522-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="全能法宠文玩",全能法宠文玩
 https://mursor.ottiptv.cc/bilibili/1779910293
-#EXTINF:-1 tvg-name="八度空间",八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-name="八度空间",八度空间
-http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 tvg-name="八里沟风景区天界山玻璃栈道",八里沟风景区天界山玻璃栈道
 https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 tvg-name="八里沟风景区桃花湾瀑布",八里沟风景区桃花湾瀑布
@@ -962,10 +912,6 @@ https://mursor.ottiptv.cc/douyu/9666219
 #EXTINF:-1 tvg-name="凉山新闻综合",凉山新闻综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 #EXTINF:-1 tvg-name="凤凰中文",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-name="凤凰中文",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰中文
 http://a21709.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
@@ -974,15 +920,7 @@ http://a21709.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 tvg-name="凤凰电影",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-name="凤凰香港",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="切不完根本切不完还是做全场吧",切不完根本切不完还是做全场吧
 https://mursor.ottiptv.cc/bilibili/27721049
 #EXTINF:-1 tvg-name="刑事侦缉档案",刑事侦缉档案
@@ -1057,12 +995,6 @@ http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 https://mursor.ottiptv.cc/bilibili/1770860442
 #EXTINF:-1 tvg-name="十里说",十里说
 https://mursor.ottiptv.cc/douyu/9064711
-#EXTINF:-1 tvg-name="千禧经典台",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-name="华丽翡翠台",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-name="华丽翡翠台",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-name="华藏卫视净空老法师",华藏卫视净空老法师
 https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 #EXTINF:-1 tvg-name="南京十八",南京十八
@@ -1396,13 +1328,9 @@ https://mursor.ottiptv.cc/douyu/10415661
 #EXTINF:-1 tvg-name="天堂电影1895",天堂电影1895
 https://mursor.ottiptv.cc/douyu/9573592
 #EXTINF:-1 tvg-name="天映经典",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映经典",天映经典
 https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 #EXTINF:-1 tvg-name="天映经典",天映经典
 https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
-#EXTINF:-1 tvg-name="天映频道",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
 http://a21709.tv.netsite.cc/proxy/240376980/240376980.m3u8
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
@@ -1650,8 +1578,6 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="平遥新闻综合",平遥新闻综合
 https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="广东体育",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-name="广东体育",广东体育
 http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="广东体育",广东体育
 https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -1675,8 +1601,6 @@ http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
 http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
@@ -2007,14 +1931,6 @@ http://live.ynurl.com/video/s10048TV/index.m3u8?zyund
 https://mursor.ottiptv.cc/bilibili/2010821
 #EXTINF:-1 tvg-name="无心法师",无心法师
 http://iptv.jxpan.vip:18888/aio/huya/30080233
-#EXTINF:-1 tvg-name="无线新闻",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="无线新闻",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-name="无线新闻台",无线新闻台
-http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻台",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="无锡娱乐",无锡娱乐
 https://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐",无锡娱乐
@@ -2057,10 +1973,6 @@ http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="明天放假今儿闲聊球鞋推荐",明天放假今儿闲聊球鞋推荐
 https://mursor.ottiptv.cc/bilibili/22695458
-#EXTINF:-1 tvg-name="明珠台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="易说影视",易说影视
 https://mursor.ottiptv.cc/douyu/10859591
 #EXTINF:-1 tvg-name="易门综合",易门综合
@@ -2717,10 +2629,6 @@ https://www.goodiptv.club/douyu/5907076
 http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 #EXTINF:-1 tvg-name="潢川综合",潢川综合
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="澳视卫星",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-name="澳视澳门",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="灌阳新闻综合",灌阳新闻综合
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 tvg-name="灯泡兄弟影游谈",灯泡兄弟影游谈
@@ -2753,8 +2661,6 @@ https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 https://mursor.ottiptv.cc/yy/1382735556
 #EXTINF:-1 tvg-name="爆笑电影王牌大贱谍23",爆笑电影王牌大贱谍23
 https://mursor.ottiptv.cc/yy/1354936169
-#EXTINF:-1 tvg-name="爱奇艺",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-name="爱讲神话的小志",爱讲神话的小志
 https://mursor.ottiptv.cc/douyu/9495613
 #EXTINF:-1 tvg-name="牛叔说电影",牛叔说电影
@@ -3126,8 +3032,6 @@ https://mursor.ottiptv.cc/douyu/9788756
 #EXTINF:-1 tvg-name="罪犯电影",罪犯电影
 http://iptv.jxpan.vip:18888/aio/huya/11352962
 #EXTINF:-1 tvg-name="美亚电影",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="美亚电影",美亚电影
 https://live.tvfix.org/live/mydy/index.m3u8
 #EXTINF:-1 tvg-name="美国医学博士答疑黑听闲聊留学健康助力",美国医学博士答疑黑听闲聊留学健康助力
 https://mursor.ottiptv.cc/bilibili/6280734
@@ -3135,18 +3039,6 @@ https://mursor.ottiptv.cc/bilibili/6280734
 https://mursor.ottiptv.cc/bilibili/22188468
 #EXTINF:-1 tvg-name="美院失业画师集资点拼好饭可点歌有会员聊天",美院失业画师集资点拼好饭可点歌有会员聊天
 https://mursor.ottiptv.cc/bilibili/3721770
-#EXTINF:-1 tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="翡翠台",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)",翡翠台北美版(TVB J1)
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-name="老卓电影",老卓电影
 https://mursor.ottiptv.cc/yy/1354770516
 #EXTINF:-1 tvg-name="老板说她的oc比较高贵要穿逆兔女郎画",老板说她的oc比较高贵要穿逆兔女郎画
@@ -3531,8 +3423,6 @@ http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="重庆汽摩",重庆汽摩
 http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="重温经典",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="野山鹰影视剧",野山鹰影视剧
 https://mursor.ottiptv.cc/yy/1354932395
 #EXTINF:-1 tvg-name="野蛮亲家",野蛮亲家
@@ -3843,20 +3733,8 @@ https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="龙井综合",龙井综合
 http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
-#EXTINF:-1 tvg-name="龙华偶像",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 tvg-name="龙华卡通",龙华卡通
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-name="龙华戏剧",龙华戏剧
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-name="龙华日韩",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-name="龙华洋片",龙华洋片
-https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华电影",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-name="龙华经典",龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 tvg-name="龙泉新闻综合",龙泉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 tvg-name="龙游新闻综合",龙游新闻综合
